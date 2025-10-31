@@ -1,6 +1,6 @@
 # Hi there, I'm Eseyin Temidayo Ebenezer 👋
 
-I’m a **Junior AI/ML Engineer** with a background in **Biomedical Engineering**, passionate about using **artificial intelligence** to solve real-world problems, especially in **nanotechnology, nanomedicine, and finance**.
+I’m a **Junior AI/ML Engineer & Researcher** with a background in **Biomedical Engineering**, passionate about using **artificial intelligence** to solve real-world problems, especially in **nanotechnology, nanomedicine, and finance**.
 
 ---
 
